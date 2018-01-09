@@ -1,0 +1,11 @@
+C:\Users\ziaba\source\repos\CogBankWeb\CogBankRecommend\bin\Debug\netcoreapp2.0\CogBankRecommend.deps.json
+C:\Users\ziaba\source\repos\CogBankWeb\CogBankRecommend\bin\Debug\netcoreapp2.0\CogBankRecommend.runtimeconfig.json
+C:\Users\ziaba\source\repos\CogBankWeb\CogBankRecommend\bin\Debug\netcoreapp2.0\CogBankRecommend.runtimeconfig.dev.json
+C:\Users\ziaba\source\repos\CogBankWeb\CogBankRecommend\bin\Debug\netcoreapp2.0\CogBankRecommend.dll
+C:\Users\ziaba\source\repos\CogBankWeb\CogBankRecommend\bin\Debug\netcoreapp2.0\CogBankRecommend.pdb
+C:\Users\ziaba\source\repos\CogBankWeb\CogBankRecommend\obj\Debug\netcoreapp2.0\CogBankRecommend.csprojResolveAssemblyReference.cache
+C:\Users\ziaba\source\repos\CogBankWeb\CogBankRecommend\obj\Debug\netcoreapp2.0\CogBankRecommend.csproj.CoreCompileInputs.cache
+C:\Users\ziaba\source\repos\CogBankWeb\CogBankRecommend\obj\Debug\netcoreapp2.0\CogBankRecommend.AssemblyInfoInputs.cache
+C:\Users\ziaba\source\repos\CogBankWeb\CogBankRecommend\obj\Debug\netcoreapp2.0\CogBankRecommend.AssemblyInfo.cs
+C:\Users\ziaba\source\repos\CogBankWeb\CogBankRecommend\obj\Debug\netcoreapp2.0\CogBankRecommend.dll
+C:\Users\ziaba\source\repos\CogBankWeb\CogBankRecommend\obj\Debug\netcoreapp2.0\CogBankRecommend.pdb
